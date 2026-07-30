@@ -22,7 +22,7 @@ This repository contains my personal portfolio website showcasing projects, skil
 
 ## Contact
 
-Email: your.email@example.com
+Email: thurunugunarathna287@gmail.com
 
 ## License
 
